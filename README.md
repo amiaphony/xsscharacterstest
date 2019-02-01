@@ -4,4 +4,4 @@ Just load it to Intruder (Burp) and you will see which characters are being sani
 
 (づ｡◕‿‿◕｡)づ
 
-Please add more stuff to it, if any of you find more combinations. Let's make XSS chars fuzzing easier for everyone.
+Please let me know if you find more, so I can add more stuff to it. Let's make XSS chars fuzzing great again.
